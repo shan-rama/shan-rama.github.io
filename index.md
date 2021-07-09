@@ -20,14 +20,14 @@ Please click on the link below each project to see details and download the proj
 
 [Waste Management in Singapore](/pdf/Singapore%20Waste%20Management-pdf.pdf)
 
-<img src="WasteManagement-Interactive%20Dashboard.PNG?raw=true"/>
+<img src="images/WasteManagement-Interactive%20Dashboard.PNG?raw=true"/>
 
 ---
 ### 4)Overview of HDB Resale Market(Analysis & DashBoard) -  Excel
 
 [HDB Resale Market Analysis]
 
-<img src="HDB%20Resale%20Market%20Overview-Interactive%20DashBoard.PNG?raw=true"/>
+<img src="images/HDB%20Resale%20Market%20Overview-Interactive%20DashBoard.PNG?raw=true"/>
 
 
 
