@@ -1,14 +1,14 @@
 ## Portfolio
-
+Please click on the link below each project to see details and download the projects/presentation slides.
 ---
-olympics2020prediction
-### Project 1 
+
+### Building a Machine Learning Model
 
 [Olympics 2020 Medal Prediction](/pdf/Olympics%202020%20Medal%20Prediction-PDF)
 <img src="images/olympics2020prediction.PNG?raw=true"/>
 <img src="images/Olympics%202020%20Medal%20Prediction.PNG?raw=true"/>
 
----
+Data Analysis and Visualization by Power BI
 [120 Years of Olympics](/pdf/Olympics%202020%20Medal%20Prediction-PDF)
 <img src="images/Olympics%20Dashboard.PNG?raw=true"/>
 
