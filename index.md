@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Olympics 2020 Medal Prediction](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Olympics 2020 Medal Prediction](/Olympics%202020%20Medal%20Prediction-PDF)
+<img src="images/Olympics%20Dashboard.PNG?raw=true"/>
 
 ---
 [120 Years of Olympics](/pdf/sample_presentation.pdf)
