@@ -8,24 +8,28 @@ Please click on the link below each project to see details and download the proj
 <img src="images/olympics2020prediction.PNG?raw=true"/>
 <img src="images/Olympics%202020%20Medal%20Prediction.PNG?raw=true"/>
 
-### 2)Data Analysis and Visualization - Power BI
+### 2)Data Analysis & Visualization - Power BI
 [120 Years of Olympics](/pdf/Olympics%202020%20Medal%20Prediction-PDF)
 <img src="images/Olympics%20Dashboard.PNG?raw=true"/>
 
 ---
-### 3)Data Analysis and Visualization - SQL and Excel
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 3)Data Analysis & Interactive DashBoard - SQL & Excel
+[Waste Management - Singapore](/pdf/Singapore%20Waste%20Management-pdf.pdf)
+<img src="WasteManagement-Interactive%20Dashboard.PNG?raw=true"/>
 
 ---
+### 4)Overview on HDB Resale Market & Interactive DashBoard -  Excel
+<img src="HDB%20Resale%20Market%20Overview-Interactive%20DashBoard.PNG?raw=true"/>
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+
+
+- [Project 1](http://example.com/)
+- [Project 2](http://example.com/)
+- [Project 3](http://example.com/)
+- [Project 4](http://example.com/)
+
 
 ---
 
