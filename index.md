@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Olympics 2020 Medal Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[120 Years of Olympics](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
