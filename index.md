@@ -1,15 +1,16 @@
 ## Portfolio
 
 ---
+olympics2020prediction
+### Project 1 
 
-### Category Name 1 
-
-[Olympics 2020 Medal Prediction](/Olympics%202020%20Medal%20Prediction-PDF)
-<img src="images/Olympics%20Dashboard.PNG?raw=true"/>
+[Olympics 2020 Medal Prediction](/pdf/Olympics%202020%20Medal%20Prediction-PDF)
+<img src="images/olympics2020prediction.PNG?raw=true"/>
+<img src="images/Olympics%202020%20Medal%20Prediction.PNG?raw=true"/>
 
 ---
-[120 Years of Olympics](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[120 Years of Olympics](/pdf/Olympics%202020%20Medal%20Prediction-PDF)
+<img src="images/Olympics%20Dashboard.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
