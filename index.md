@@ -33,10 +33,8 @@ Please click on the link below each project to see details and download the proj
 
 
 
-- [Project 1](http://example.com/)
-- [Project 2](http://example.com/)
-- [Project 3](http://example.com/)
-- [Project 4](http://example.com/)
+
+- [More Projects on the way](http://example.com/)
 
 
 ---
